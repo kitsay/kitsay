@@ -1,10 +1,10 @@
-Kitsay 👋
+# Kitsay 👋
 
 Hey! Being a hobbyist programmer, I program whenever I feel the urge to. I started learning programming in mid-2025. I started with Python, C++, and C, but by December 2025, I had started learning Rust 🦀. It was hard; the concepts were alien to me. By April 2026, I had started working on my terminal editor project, "Celov." I hope that soon I'll be able to replace Nvim and Helix with my modern text editor, Celov.
 
 Btw, I am kind of a philosophical person, so here are some decent quotes that I'd like to share with you.
 
-💭 Quotes I Like
+## 💭 Quotes I Like
 
 1. "One day Ennui was born from Uniformity." -- Motte
 
@@ -28,7 +28,7 @@ Btw, I am kind of a philosophical person, so here are some decent quotes that I'
 
 11. "Be who you truly are." -- Kitsay
 
-About Me
+## About Me
 
 - Sex: Male
 - YOB: 2009
@@ -40,7 +40,7 @@ About Me
 - Optimist: Yes
 - Atheist: Mood-dependent
 
-📚 Best Books I Suggest Reading
+## 📚 Best Books I Suggest Reading
 
 Note that these are self-help books.
 
