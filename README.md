@@ -1,35 +1,49 @@
-# Syfos
+# Kitsay
 
-Hey! I'm Syfos and creating free and opensource softwares and systems is one of my hobbies.
+Hey! Being a hobbyist programmer, I program whenever I feel the urge to. I started learning programming in mid-2025. I started with Python, C++, and C, but by December 2025, I had started learning Rust. It was hard; the concepts were alien to me. By April 2026, I had started working on my terminal editor project, "Celov." I hope that soon I'll be able to replace Nvim and Helix with my modern text editor, Celov.
 
-# About Me
-- **Sex:** Male
-- **Born:** 2009
-- **Height:** 5'4" (162.6 cm)
-- **Ethnicity:** Indian
-- **Languages:** English, Hindi
-- **Orientation:** Bisexual (Mood dependent)
-- **Poor:** Yes
-- **Vegiterian?:** Yes and also takes animal product.
+Btw, I am kind of a philosophical person, so here are some decent quotes that I'd like to share with you:
 
-## Interests
-- **Sales**
-- **finance**
-- **unique creations depending on intrest**
+1. "One day Ennui was born from Uniformity." -- Motte
 
-## Personality
-- **Friendly?:** Depends, mostly neutral
-- **Friends:** None (Dislike to have any)
-- **Depressed:** Usually
-- **Isolated:** Yes!
-- **Everyday Feel?:** Stressing about why I didn't got privelages and other social things the way as others.
-- **Cynical?:** Definitely!!!!!!
-- **Atheist?:** Mood dependent.
+2. "A problem is a lack of an idea. A money problem is about lacking the idea of how money is made." -- Jim Rohn
 
-## Best books I suggest to read:
+3. "The past is already dead and the future is unborn." -- Kitsay
 
-- How to win friends and influence people in the society? -- Dale Carnegie.
+4. "It is the implementation that makes an idea work." -- Likely Mark Zuckerberg
 
-- How to stop worrying and Start Living? -- Dale Carnegie.
+5. "I've to create my own way." -- Kitsay
 
-- Atomic Habits.
+6. "Relationships work on the principle of returns and favors. Understanding this well can be both an advantage and a disadvantage." — Kitsay
+
+7. "This is your last and first life." -- Kitsay
+
+8. "You may never find a true explorer living in poverty and saving pennies. Not because they began exploring with wealth, but because they absorbed the ideas and knowledge they encountered along the way. Exploration has two forms: one is travelling, and the other is reading." -- Kitsay
+
+9. "Imperfection arises from a lack of exposure." -- Kitsay
+
+10. "Take your time and live." -- Kitsay
+
+11. "Be who you truly are." -- Kitsay
+
+## About Me
+
+Sex: Male
+YOB: 2009
+Height: 5'2" (157.5 cm), cuz my parents are also 5'2" :3
+Ethnicity: Indian
+Languages: English and Hindi
+Sexual Orientation: Bisexual
+Friendly: Yes
+Optimist: Yes
+Atheist: Mood-dependent
+
+## Best Books I Suggest Reading:
+
+Note that these are self help books.
+
+- How to Win Friends and Influence People -- Dale Carnegie.
+
+- How to Stop Worrying and Start Living -- Dale Carnegie.
+
+- Atomic Habits -- James Clear.
