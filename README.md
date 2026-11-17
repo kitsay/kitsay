@@ -32,7 +32,7 @@ Btw, I am kind of a philosophical person, so here are some decent quotes that I'
 
 - Sex: Male
 - YOB: 2009
-- Height: 5'2" (157.5 cm), cuz my parents are also 5'2" :3
+- Height: 5'4", cuz my parents are also 5'4" :3
 - Ethnicity: Indian 🇮🇳
 - Languages: English and Hindi
 - Sexual Orientation: Bisexual
